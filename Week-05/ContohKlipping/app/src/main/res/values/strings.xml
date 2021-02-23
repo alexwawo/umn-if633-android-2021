@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contoh Klipping</string>
+
+    <string name="clipping">Clipping</string>
+    <string name="translated">Text yang bergeser</string>
+    <string name="skewed">Telah di Skew dan  </string>
+</resources>
